@@ -1,0 +1,22 @@
+########################
+# node.js / npm
+########################
+node_modules
+npm-debug.log
+
+########################
+# bower
+########################
+bower_components
+
+########################
+# misc / editors
+########################
+*~
+*#
+.DS_STORE
+.netbeans
+nbproject
+.idea
+Session.vim
+
